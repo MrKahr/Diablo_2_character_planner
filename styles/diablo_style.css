@@ -8,6 +8,7 @@ h2{
 }
 
 img {
-    height: "10%";
-    width: "10%";
+    height: 50px;
+    width: 50px;
+    margin-bottom: 10px;
 }

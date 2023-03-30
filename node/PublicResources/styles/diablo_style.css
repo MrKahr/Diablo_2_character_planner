@@ -1,0 +1,14 @@
+html {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p, /*Multiple selectors*/
+h2{
+    color: rgb(78, 32, 1);
+}
+
+img {
+    height: 50px;
+    width: 50px;
+    margin-bottom: 10px;
+}
